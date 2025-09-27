@@ -36,7 +36,7 @@ Pandas (for handling datasets)
 
 Clone this repository:
 
-[git clone https://github.com/your-username/WorldPopulationDashboard.git](https://github.com/MohammadAqaNoori/World-Population-Dashboard)
+[git clone(https://github.com/MohammadAqaNoori/World-Population-Dashboard)
 cd WorldPopulationDashboard
 
 
