@@ -1,9 +1,9 @@
-#🌍 World Population Dashboard with Matplotlib
+# 🌍 World Population Dashboard with Matplotlib
 
 This project is a practice exercise to apply Matplotlib (Python’s most popular visualization library) on real-world–style data.
 It demonstrates different types of visualizations and how they can help us understand population and economic trends.
 
-##📊 Features
+## 📊 Features
 
 
 The project includes five different visualizations:
@@ -18,7 +18,7 @@ Bar Chart (Continents) → Population by continent (billions).
 
 Scatter Plot → Relationship between population and GDP for 10 countries.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3
 
@@ -26,13 +26,13 @@ Matplotlib (for data visualization)
 
 Pandas (for handling datasets)
 
-##📂 Project Structure
+## 📂 Project Structure
 📁 WorldPopulationDashboard
 │── MatplotlibProject.py   # Main project code
 │── README.md              # Project documentation
 │── requirements.txt       # Required libraries (matplotlib, pandas)
 
-##🚀 How to Run
+## 🚀 How to Run
 
 Clone this repository:
 
@@ -63,12 +63,12 @@ Here are examples of the charts generated:
 
 🔴 Population vs GDP (Scatter Plot)
 
-##🎯 Purpose
+## 🎯 Purpose
 
 This project was built as part of my Python & Machine Learning learning journey.
 It shows how Matplotlib can be used in Exploratory Data Analysis (EDA), which is a key step in Machine Learning.
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 Use real datasets (from World Bank or UN data).
 
@@ -76,7 +76,7 @@ Add interactive visualizations using Plotly or Seaborn.
 
 Export all charts into a PDF dashboard report.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Mohammad Aqa Noori
 
